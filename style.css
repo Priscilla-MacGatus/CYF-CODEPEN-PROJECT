@@ -1,0 +1,200 @@
+.header-background{background-image:url(https://i.pinimg.com/564x/a5/e1/f0/a5e1f06e85ead0d3e439478bcca671bd.jpg);
+  padding:10px;}
+
+.list li{float:left;      
+       margin-right:25px;        
+       background-color:mistyrose;}
+
+.list{list-style-type:none; padding:0px; display:inline-block;}
+ 
+
+.logo img{width:70px; display:inline-block; 
+            margin-top:20px;}
+
+.list a{text-decoration:none; color:rgb(128 128 128);}
+.list a:hover{color:teal;}
+.list a:active{color:#5f9ea0;}
+
+.list-container{text-align:center;}
+
+
+
+
+#home-id{text-align:center; margin-bottom:9px;margin-top:50px;}
+
+#home-text{font-family:serif; font-size:19px;
+   color:#696969; margin-top:30px; 
+  text-align:center; line-height:30px;}
+
+
+
+
+.arrival{text-align:center;}
+
+.arrival_text{ text-align:center;  color:#696969; font-size:19px;}
+
+#new_arrivals{width:300px;height:350px;
+             border:0px solid darksalmon; 
+            box-shadow:2px 5px 10px black;
+            border-radius:9px;
+            margin:20px;}
+
+#new_arrivals1{width:300px;height:350px;                   border:0px solid darksalmon; 
+              box-shadow:2px 5px 10px black;
+              border-radius:9px;                           margin:20px;}
+
+#new_arrivals2{width:300px;  height:350px;                 border:0px solid darksalmon; 
+              box-shadow:2px 5px 10px black;
+              border-radius:9px;
+              margin:20px;}
+
+#new{text-align:center;}
+
+
+
+
+
+
+#product-id{text-align:center; margin-top:50px;}
+
+
+
+
+.image-together{ width:250px; height:330px;
+  margin:20px; 
+  border:0px solid darksalmon; 
+  box-shadow:2px 5px 10px black;
+  border-radius:9px;
+text-align:center;}
+
+.image-together:hover{transform:scale(1.05);}
+
+.image-container p{display:inline-block;
+                 background-color:mistyrose;
+                 border:2px solid black;}
+
+.image-container img{display:inline-block; margin-left:50px; display:inline;}
+
+
+
+body{background-color:mistyrose; margin-bottom:50px;}
+
+
+
+main{border:1px solid mistyrose;}
+
+.main-style{background-image:url(https://i.pinimg.com/564x/33/8e/a9/338ea9cb3841a2091b655516b3dd5d15.jpg); background-attachment:cover;}
+
+.main-style h1{background-color:salmon; 
+              font-weight:bold; 
+               display:inline-block;}
+
+.main-style p{color:black; 
+             font-size:23px; 
+             width:75px;
+            font-weight:bold; 
+            margin:20px; 
+            padding:5px; 
+            text-align:center; 
+            border-radius:35px;
+            position:relative; 
+            right:60px;}
+        
+
+.main-style p button{background-color:pink;
+  color:black; 
+  border-radius:20px; 
+  font-size:11px;
+  position:relative;
+  bottom:7px;}
+
+.main-style p button:active{transform:scale(1.05);}
+
+
+
+#Kart{text-align:center;}
+
+#table{border-style:solid; border:1px; width:700px;}
+
+#item{ background-color:white;}
+
+#cost{ background-color:white;}
+
+#quantity{background-color:white; }
+
+#rows{border-style:solid; }
+
+#name{list-style:none; background-color:pink;}
+
+
+#price{list-style:none;
+  background-color:pink;}
+
+#number{list-style:none;
+ background-color:pink;}
+
+
+
+#about-id{text-align:center;
+        margin-bottom:12px;
+        margin-top:50px;}
+
+#about-text{font-family:serif,Arial;
+         font-size:19px;
+         color:#696969;
+         margin:30px;
+         line-height:23px;}
+
+
+
+ul li{color:#696969;}
+
+hr{width:500px;margin-bottom:50px;}
+
+
+
+#contact-id{text-align:center;
+           margin-bottom:12px;}
+
+#contact-text{font-family:Roboto,Arial;
+             font-size:19px; 
+             color:#696969;
+             margin-top:30px;}
+
+
+
+label{font-size:18px;
+     font-weight:bold;
+     color:black;}
+
+input{background-color:snow;line-height:25px;margin:10px;width:300px; text-align:left;}
+
+#callback{color:blue;
+          font-size:20px;}
+
+
+
+
+#custom{background-color:burlywood;
+        width:500px;
+       text-align:center; 
+       margin-left:10px;
+       margin-top:10px;
+       border-radius:20px;
+       font-size:18px;
+       border-width:1px;}  
+
+
+.subscribe{text-decoration:none;}
+.subscribe-text a{text-decoration:none; color:blue;}
+.subscribe-text a:hover{color:grey;}
+
+
+
+.footer-text{margin-bottom:20px;
+       line-height:30px;
+       font-family:Roboto, Arial, Charm;
+       font-size:19px;box-shadow: 6px 6px 10px grey;
+       ;background-image:url(https://i.pinimg.com/564x/a5/e1/f0/a5e1f06e85ead0d3e439478bcca671bd.jpg);}
+
+.footer-text p{background-color:white;}
